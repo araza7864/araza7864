@@ -2,18 +2,15 @@
 
 Computer Science student at **George Mason University**, building web applications and Python tools for practical workflows.
 
-My work includes book distribution and partner onboarding, document review workflows, content analysis, and route-based fuel-efficiency estimates. I work with **Python, Java, TypeScript, React, FastAPI, SQL, and Git**.
+My work includes book distribution and partner onboarding, document review workflows, and route-based fuel-efficiency estimates. I work with **Python, Java, TypeScript, React, FastAPI, SQL, and Git**.
 
 ## Selected projects
 
 ### [Harvest Reach](https://github.com/araza7864/BookHarvest)
-Book catalog, inventory, and request workflows. Includes the original **FastAPI + React** implementation and a newer **Next.js + Prisma** app, with setup instructions for both.
+Book catalog, inventory, and request workflows built with **FastAPI, async SQLAlchemy, React, and TypeScript**, with JWT sign-in and role-based access.
 
 ### [Smart Trip MPG Calculator](https://github.com/araza7864/MPG_Calculator)
 A **Python** CLI combining OpenRouteService routing and vehicle fuel-economy data, with a **Leaflet** map and JSON trip output. Estimates MPG using a speed-based model.
-
-### Generative Search Optimization Platform
-A **Python/FastAPI + React** tool for assessing web-page content readiness, explaining findings, and drafting improvements. Heuristic scores are kept distinct from observed AI citations. Source is currently private.
 
 ### Original Document Return System
 A team software engineering project using **Java, Jakarta Servlets, and MySQL** for data entry, review, approval, and a request audit trail. Source is currently private.
