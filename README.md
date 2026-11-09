@@ -12,8 +12,8 @@ Book catalog, inventory, and request workflows built with **FastAPI, async SQLAl
 ### [Smart Trip MPG Calculator](https://github.com/araza7864/MPG_Calculator)
 A **Python** CLI combining OpenRouteService routing and vehicle fuel-economy data, with a **Leaflet** map and JSON trip output. Estimates MPG using a speed-based model.
 
-### Original Document Return System
-A team software engineering project using **Java, Jakarta Servlets, and MySQL** for data entry, review, approval, and a request audit trail. Source is currently private.
+### [Original Document Return System](https://github.com/araza7864/original-document-return)
+A team software engineering project using **Java, Jakarta Servlets, and MySQL** for data entry, review, approval, and a request audit trail. Includes Docker setup and database workflow tests.
 
 ## Collaboration
 
